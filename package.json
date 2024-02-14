@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "testing tailwind ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "takondwa Kapyola",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
